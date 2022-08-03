@@ -1,3 +1,4 @@
+// Update the auth middleware function to work with the GraphQL API.
 // see week 21, lesson 25-26 for guide
 const jwt = require('jsonwebtoken');
 
