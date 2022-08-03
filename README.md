@@ -10,7 +10,7 @@ This application allows users to search for new books to read, so that they can 
 
 ## Installation
 
-This application requires installation of npm () and Heroku. For a complete let is node modules to install, please examine the package.json files at the link below.
+This application requires installation of npm () and Heroku. For a complete list of node modules to install, please examine the package.json files at the link below.
 
 All elements of the application can be examined here: https://github.com/matthewestes33/mernSearchEngine
 
