@@ -10,8 +10,9 @@ const { gql } = require('apollo-server-express');
 // Mutation type: login: Accepts an email and password as parameters; returns an Auth type ...
 // ... addUser: Accepts a username, email, and password as parameters; returns an Auth type ...
 // ... saveBook: Accepts a book author's array, description, title, bookId, image, and link as parameters ...
-// ... returns a User type. (**TODO: Look into creating what's known as an input type to handle parameters**) ...
+// ... returns a User type ...
 // ... removeBook: Accepts a book's bookId as a parameter; returns a User type.
+// ... inputBook: input type to handle parameters
 
 const typeDefs = gql`
   type User {
@@ -32,6 +33,14 @@ const typeDefs = gql`
   type Auth {
     token: ID!
     user: User
+  }
+  input InputBook {
+    bookId: String
+    authors: [String]
+    title: String
+    description: String
+    image: String
+    link: String
   }
   type Query {
     me: User
