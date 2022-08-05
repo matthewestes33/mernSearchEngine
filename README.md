@@ -6,11 +6,11 @@ This application allows users to search for new books to read, so that they can 
 
 ## Mock-up
 
-![Screenshot.](./assets/screenshot.jpg)
+![Search Results.](assets/images/searchresults.jpg)
 
 ## Installation
 
-This application requires installation of npm () and Heroku. For a complete list of node modules to install, please examine the package.json files at the link below.
+This application requires installation of npm (incl. apollo-client, concurrently, and graphql) and Heroku. For a complete list of node modules to install, please examine the package.json files at the link below.
 
 All elements of the application can be examined here: https://github.com/matthewestes33/mernSearchEngine
 
@@ -20,7 +20,7 @@ The deployed application can be used here:
 
 Documentation:
 
-
+Get Started with Apollo Client: https://www.apollographql.com/docs/react/get-started/ 
 
 Additional assistance:
 
