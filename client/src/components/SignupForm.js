@@ -1,4 +1,4 @@
-// Replace the addUser() functionality imported from the API file with the ADD_USER mutation functionality.
+// Replace the addUser() functionality imported from the API file with the ADD_USER mutation functionality
 import React, { useState, useEffect } from 'react';
 import { Form, Button, Alert } from 'react-bootstrap';
 
