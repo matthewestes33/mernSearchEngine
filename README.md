@@ -22,6 +22,8 @@ Documentation:
 
 Get Started with Apollo Client: https://www.apollographql.com/docs/react/get-started/ 
 
+Getting Started with Atlas: https://www.mongodb.com/docs/atlas/getting-started/
+
 Additional assistance:
 
 Thank you to my instructional staff Farish and Riley, tutor Juan Delgado, and AskBCS Learning Assistants!
