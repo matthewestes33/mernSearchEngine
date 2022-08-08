@@ -14,7 +14,7 @@ This application requires installation of npm (incl. apollo-client, concurrently
 
 All elements of the application can be examined here: https://github.com/matthewestes33/mernSearchEngine
 
-The deployed application can be used here: 
+The deployed application can be used here: https://gentle-everglades-11160.herokuapp.com/
 
 ## Credits
 
